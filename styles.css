@@ -13,6 +13,7 @@ body {
   color: darkslategray;
   font-family: 'Nanum Myeongjo', serif;
   text-align: center;
+  font-weight: bold;
 }
 
 .wings.fly {
